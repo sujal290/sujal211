@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitcount.itsvg.in/api?id=Patel-Jenil&label=Profile%20views&color=1&icon=5&pretty=true" alt="Patel-Jenil" />
 
-- 👋🏻 Hi, I'm Jenil Patel 
+- 👋🏻 Hi, I'm Sujal Gupta
 
 - 🌱 I'm currently learning ** MERN and Java SpringBoot**
 
